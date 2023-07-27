@@ -46,10 +46,12 @@ _**Important Note**: To install it via Git, you need at least git version 2.25.1
 
     ```bash
     git clone https://github.com/leandro-de-paula/musicashion.git
+    ```
 
 instruções:
     Depois de realizar a clonagem rode o arquivo "index.html" e as outras páginas poderão ser requisitadas via links ou botões espalhado por todo o projeto, com isso não é necessário executar cada página separadamente a fim de ver a renderização do code de cada página.
 
+#### Site is live at [https://leandro-de-paula.github.io/musicashion/](https://leandro-de-paula.github.io/musicashion/)
 
     
 
